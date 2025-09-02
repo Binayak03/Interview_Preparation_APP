@@ -20,3 +20,7 @@ A Streamlit-based app to screen resumes and conduct categorized interviews for s
 
 ## Author
 Binayak
+=======
+# Interview_Preparation_APP
+This app is build to help you prepare for the job interview. 
+
